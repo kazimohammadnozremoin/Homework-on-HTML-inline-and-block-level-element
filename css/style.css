@@ -1,0 +1,28 @@
+element.style{
+
+			padding:50px;
+
+}
+
+
+.box{
+	width:200px;
+	height:200px;
+	background-color: darkred;
+}
+
+
+.box{
+	width:100px;
+	height:100px;
+	background-color: royalblue;
+}
+
+div.red{
+	background-color: darkred;
+	margin:50px 40px 30px 20px;
+}
+div.blue{
+	background-color: slateblue;
+	margin:-50px 40px 30px 20px;
+}
